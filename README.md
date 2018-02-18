@@ -73,7 +73,7 @@ module.exports = (robot) ->
 
 ## Related
 
-This module's code is greatly inspired by [hubot-schdule](https://github.com/matsukaz/hubot-schedule).
+This module's code is greatly inspired by [hubot-schedule](https://github.com/matsukaz/hubot-schedule).
 
 
 
